@@ -1,0 +1,16 @@
+
+COMANDOS DE GIT
+
+$git init -> Iniciar repositorio Local
+$git status -> Revisar que esta añadido para el commit
+$git add . -> Agregar archivos al staging area 
+$git rm --cached <nombre_archivo> -> Eliminarlo del staging area (Volverlo a desagregar)
+$git config user.name "nombre_usuario" -> Ingresar usuarioque edita
+$git config user.email "Correo" -> Ingresar correo 
+$git commit -m "Texto del commit" -> Crear commit (Control de que se ha añadido,modificado o eliminado)
+$git branch -> Ver las ramas que hay
+$git branch "Nombre_de_la_rama_a_crear" -> Crear rama
+$git remote add origin "URL_del_repositorio_remoto_de_GITHUB" -> Enlazar repositorio local con el remoto
+$git remote -v -> Visualizar si se enlazo bien el repositorio
+$git push -u origin "Nombre_del_repositorio_a_trabajar" -> Subir archivos por primera vez, luego se usa solo $git push
+
