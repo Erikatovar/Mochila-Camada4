@@ -10,4 +10,4 @@ El mayor repositorio de código del mundo es punto de encuentro para millones de
 Con el control de GitHub, Microsoft se hace también con la comunidad de desarrollo más nutrida del planeta.
 c.¿Hay otra forma que no sea la terminal para trabajar con Github?
 respuesta:
-creo se debe utilizar una terminal para poder trabajar con los repositorios de GITHUB.
+creo se debe utilizar una terminal para poder trabajar con los repositorios de GITHUB..
