@@ -1,0 +1,36 @@
+
+A. ¿Quién inventó el sistema de control de versión Git y por qué?
+
+   Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, 
+   el famoso creador del kernel del sistema operativo Linux, en 2005.
+
+   Linux tenía un gestor de paquetes que pasó a ser de pago, por lo que el desarrollador principal de Linux decidió crear 
+   un nuevo gestor de control de versiones para su sistema, y que diera soporte a su core. De esta forma nació Git.
+
+B. ¿A quién pertenece actualmente Github y por qué?
+
+   Actualmente GitHub es propiedad de Microsoft. De acuerdo a declaraciones del CEO de Microsoft, La compra de GitHub es 
+   un paso más en la inclinación de Microsoft para enfocarse todo lo posible al desarrollo, haciendo una vez más hincapié 
+   en que el núcleo de la empresa lo forman los desarrolladores y nada más.
+
+   Desde el nombramiento de Satya Nadella como CEO de Microsoft (sustituyendo al infame Steve Ballmer), la compañía ha 
+   adoptado una estrategia nueva, mucho más abierta al mundo del software libre y a la integración con otras plataformas y 
+   servicios. Un ejemplo es la adquisición en 2016 de Xamarin, una plataforma que permite crear aplicaciones móviles que 
+   pueden funcionar en distintos sistemas, como iOS, Android y (por supuesto) Windows. Y es, precisamente, el que fuera CEO 
+   de Xamarin, Nat Friedman, quien será nuevo CEO de GitHub. Así pues, esta adquisición es, sin duda, un acercamiento a la 
+   comunidad más vibrante en el desarrollo de software libre y abierto.(Tomado de naukas.com).
+
+   Además, hay otro motivo de peso: Microsoft Azure. En plena explosión de cloud services (servicios en la nube), con un 
+   crecimiento previsto para este año del 21.4%, Microsoft tiene que competir con el líder indiscutible a día de hoy, la 
+   todopoderosa Amazon con AWS. Qué mejor forma de hacerlo que estar en contacto directo con los desarrolladores que trabajan 
+   en esos servicios, ver sus necesidades y ofrecerles herramientas que faciliten su integración con Azure.(Tomado de naukas.com)
+ 
+
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+		
+   Se puede instalar la aplicación de GitHub para el escritorio. una vez instalada se puede seguir los paso a continuación:
+   1. Se crea un repositorio desde el website de GitHub.
+   2. Se abre la aplicación en el escritorio.
+   3. Click en el icon mas ubicado en la esquina superior izquierda.
+   4. De acuerdo a a lo que se requiera hacer dar click en Add, Create o Clone. 
+   5. Seguir la secuencia de pasos que normalmente se seguiria desde la terminal pero de manera gráfica en la aplicación.  
