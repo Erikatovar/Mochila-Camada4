@@ -1,0 +1,9 @@
+git init --> Inicia un repositorio de manera local.
+git status --> Me indica que archivos estan en el staging area listos para realizarles su commit.
+git add --> Añade uno o mas archivos al staging area
+git rm --cached --> Elimina archivos
+git commit -m --> Realiza coommit al software.
+git branch --> Me muestra las ramas del proyecto a realizar
+git log --> Me muesta los commits que se han realizado
+git log --oneline --> Me muestra los commits de manera resumida
+git checkout --> Me hace cambiar de rama.
