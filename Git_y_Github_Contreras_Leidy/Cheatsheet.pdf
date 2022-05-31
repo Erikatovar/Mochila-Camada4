@@ -1,0 +1,16 @@
+git init : crea un repositorio local
+git status :Ver el estado de nuestros archivos
+git add : Agrega archivos al repositorio local
+git rm --cached: me regresa el archivo añadido del repositorio local, al area de trabajo
+git commit -m : mensaje, comitea los cambios realizados
+git branch : Me muestra las ramas que hay
+git log : Me muestra los cambios reliazados
+git log --oneline : Me muestra el resumen de los commits y las ramas
+git checkout : Me ayuda a moverme entre ramas 
+git checkout -b : Mea ayuda a crear la rama y posicionarme en ella
+git clone:Me ayuda a clonar un archivo por primera vez a mi repositorio local
+git push: Envia archivos del repositorio local al remoto
+git pull: Me ayuda a descargar los cambios del repositorio remoto al local
+git remote add origin URL:Para enlazar gitHub con nuestro repositorio local
+git config user.name: para determinar el usuario
+git config user.email: para determinar el email
