@@ -1,0 +1,12 @@
+git init    /   Iniciar repositorio local
+git config   /   Forma de establecer opciones de configuracion en git, para determinar usuario e email
+git status  / Se usa para ver el estado de los archivos
+git add  /  Agrega archivos al repositorio local
+git rm --cached  /  Devuelve el archido añadido del repositorio local al area de trabajo, Git ya no le hará seguimiento
+git commit -m  /  Realizar un commit en tu repositorio local - Genera punto cronologico de guardado
+git branch  /  determina  ,-m para renombrar la rama 
+git log  / Permite observar los cambios-revisiones anteriores de un proyecto, --oneline para que sea resumido
+git checkout  / se utiliza para cambiar de rama, si se usa con -b nombreRama crea la rama y se mueve a ella
+git pull / Descargar cambios del repositorio remoto
+git clone URL / Descargar contenido de repositorio remoto
+git remote add origin URL  /  Conectar repositorio local con repositorio remoto
