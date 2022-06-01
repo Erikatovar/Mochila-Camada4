@@ -1,0 +1,8 @@
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+        Linus Torvalds es el cerebro detrás de Git el próposito era mantener un seguimiento ordenado de las versiones de archivos de trabajo de aplicaciones
+permitiendo registrar, coordinar el trabajo de distintas personas. 
+b. ¿ A quién pertenece actualmente Github y por qué?
+        Github es desde 2018 propiedad del gifante corporativo Microsoft.
+
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+Podemos trabajar en Github desde su sitio web de este modo no necesitamos utilizar la terminal.
