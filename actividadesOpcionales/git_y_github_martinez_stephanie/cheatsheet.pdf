@@ -1,0 +1,17 @@
+CHEATSHEET - COMANDOS TERMINAL GIT
+
+- Limpiar Consola:ctrl+l ó clear
+- Crear Carpeta: mkdir nombre_carpeta
+- Entrar a carpeta: cd
+- Salir de Carpeta: cd ..
+- Ver lo que hay dentro de la carpeta: ls
+- Borrar Archivo: rm nombreArchivo
+- Borrar Directorio y sus Archivos: rm -r nombreDirectorio
+- Ver Ruta Absoluta de la Terminal: pwd
+- Crear Archivos: touch nombreArchivo
+- Mostrar Archivos Ocultos: ls -R
+- Borrar Carpetas Vacias: rmdir nombreCarpeta
+- Volver Carpeta Anterior: cd ../
+- Editar Archivo desde terminal: nano nombreArchivo
+- Mover Archivo o carpeta: lmv
+
