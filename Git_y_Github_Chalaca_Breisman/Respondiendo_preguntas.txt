@@ -1,0 +1,10 @@
+¿Quién inventó el sistema de control de versión Git y por qué?
+
+Este fue inventado por Linus Torvalds, creador y desarrollador también de Kernel de Linux. Este se creo inicialmente como un motor de bajo nivel para que otros desarrolladores crearán la interfaz de usuario; sin embargo, se convirtió en un software de control de versiones, con el objetivo de llevar registro de los cambios en archivos de computadores incluyendo coordinar el trabajo en equipo que varias personas realizan en archivos compartidos sobre un repositorio. 
+
+¿A quién pertenece actualmente Github y por qué?
+
+Actualmente este es un software libre en cuanto a derechos de autor. En cuanto a mantenimiento está supervisado por Junio Hamano,  Linus Torvalds y un grupo de colaboradores que contribuyen a su funcionamiento. Esto se debe a que desde un inicio el software estaba pensado en ser de codigo abierto para que otros desarrolladores pudieran codificar interfaces de usuario. Con esto, al ser un software libre puede ser estudiado, modificado y utilizado con cambios y mejoras en otros proyectos. 
+
+¿Hay otra forma que no sea la terminal para trabajar con Github?
+Luego de buscar información alusiva a si Github puede o no trabajar sin la terminal, no logré encontrar una respuesta clara, ya que algunas personas hacen alusión a que Github permite trabajar de forma remota sin necesidad de una terminal, pero a su vez si se quiere trabajar de forma local, se hace necesario el uso de la terminal. 
