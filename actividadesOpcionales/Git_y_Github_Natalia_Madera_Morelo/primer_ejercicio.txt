@@ -1,0 +1,11 @@
+a. Quien invento el sistema de control de version Git y por que?
+Surgio a la raiz de la necesidad de trabajo colaborativo, 
+asincronico donde prima el control de verdionamienot de un proyecto.
+Sus creadores: Github fue desarrollado por Chris Wanstrath, P. J. 
+Hyett, Tom Preston-Werner y Scott Chacon usando Ruby on Rails
+
+b. A quien pertenece actualmente Git Hub y por que?
+Microsoft, se ha apoderado de  comunidad mas grande de desarrolladores del mudo.
+
+c. Hay otra forma que no sea la terminal para trabajar con Github?
+creeria que no (._.")
