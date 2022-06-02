@@ -1,0 +1,17 @@
+cp ----> copy
+cd ----> change directory
+pwd ---> print work directory
+mkdir ----> make directory
+rmdir ----> remove directory
+rm -f ----> remove directory with files
+touch ----> create file
+rm ----> remove file
+mv ----> move or rename
+ls ----> list
+ls -a ----> list with hidden files
+ls -R ----> list recursively
+cat ----> read a file
+less ---> read a file in a separate space
+clear ----> clean the console
+..   ----> return one level behind
+git --version ----> show the version of Git
