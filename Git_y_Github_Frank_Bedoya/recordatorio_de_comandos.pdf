@@ -1,16 +1,16 @@
-                                                                                   "Como usar Git"
+"Como usar Git"
 
-                                                                                      git init: 
-                                                    Este comando sirve para iniciar nuestro repositorio de git de forma local.
+ git init: 
+ Este comando sirve para iniciar nuestro repositorio de git de forma local.
 
-                                                                            git add (nombre del archivo que va a añadir)
-                                            Este comando sirve para añadir al work directiry cualquier archivo creado para que git le haga seguimiento 
+git add (nombre del archivo que va a añadir)
+Este comando sirve para añadir al work directiry cualquier archivo creado para que git le haga seguimiento 
 
-                                                                            git config user.name(nombre de usuario)
-                                                                    este comando sirve para que el git pueda identificarte con tu nombre 
+ git config user.name(nombre de usuario)
+ este comando sirve para que el git pueda identificarte con tu nombre 
                                                                                                             
-                                                                            git config user.email(tu email)
-                                                            este comando sirve para que el git pueda identificarte con tu correo
+ git config user.email(tu email)
+este comando sirve para que el git pueda identificarte con tu correo
                                                              
-                                                                            git commit -m(nombre del commit)
-                                                    este comando sirve para crear un commit de los archivos anterior mente añadidos                       
+git commit -m(nombre del commit)
+este comando sirve para crear un commit de los archivos anterior mente añadidos                       
