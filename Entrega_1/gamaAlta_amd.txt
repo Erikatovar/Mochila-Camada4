@@ -1,0 +1,10 @@
+Procesador		Amd Ryzen 9 5950X 4.9GHz Turbo AM4
+
+Placa Madre		ROG Strix X570-E Gaming ROG STRIX X570-E GAMING
+	
+Memoria principal	Marca Corsair Series Dominator Platinum modelo:CMD64GX4M4C3200C16
+ 
+Memoria secundaria	OCZ Technologies OCZ RVD400-M22280-512G - Disco duro interno de 512 GB (M.2) RVD400-M22280-512G
+ 
+GPU			GEFORCE RTX 2080 TI FOUNDERS EDITION modelo:900-1G150-2530-000
+			Con procesador gráfico:NVIDIA GeForce RTX 2080 Ti

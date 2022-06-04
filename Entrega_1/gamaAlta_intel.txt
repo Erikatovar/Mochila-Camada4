@@ -1,0 +1,11 @@
+GAMA ALTA INTEL
+
+Procesador  		Core i7-11700KF
+
+Placa Madre		ROG STRIX X299-E GAMING modelo:90MB0U50-M0EAY0
+ 
+Memoria principal	Corsair Vengeance RGB Pro modelo: CMW32GX4M4C3200C16
+ 
+Memoria secundaria	SAMSUNG 960 EVO NVMe M.2 500GB modelo:MZ-V6E500BW
+
+GPU			MSI COMPUTER GeForce GTX 1080 Ti LIGHTNING modelo:GTX 1080 Ti LIGHTNING X.

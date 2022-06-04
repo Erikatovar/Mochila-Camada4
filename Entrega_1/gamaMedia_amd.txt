@@ -1,0 +1,21 @@
+
+
+GAMA MEDIA AMD
+
+Procesador		AMD YD200GC6FBBOX Athlon 200GE 2 núcleos 4 hilos AM4 
+			Socket Procesador de escritorio con gráficos Radeon Vega
+ 
+Placa madre		A320M Asrock
+
+Memoria principal	Corsair Vengeance LPX 16GB (2x8GB) DDR4 DRAM 3200MHz 
+			C16 Kit de memoria de escritorio - negro (CMK16GX4M2B3200C16)
+ 
+Memoria secundaria	Seagate BarraCuda - Disco duro interno de 2 TB, SATA de 3.5 pulgadas 6 Gb / s, 
+			7200 RPM, 256 MB caché, 3.5 pulgadas, 
+			embalaje libre de frustración (ST2000DM008 / ST2000DMZ08)
+ 
+GPU			SAPLOS Radeon RX 560 Tarjeta gráfica, 4 GB, GDDR5, 128 bits,
+			PCI Express 3.0 x8, DP/HDMI/DVI, DirectX 12, GPU de computadora, 
+			tarjeta de video de escritorio para PC de juegos, 
+			ventiladores de refrigeración duales, soporte 4K.
+ 

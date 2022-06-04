@@ -1,0 +1,12 @@
+GAMA BAJA INTEL
+
+Procesador		Core i3 9100
+
+Placa madre		ASRock Intel B365 - Placa base de chipset, B365M-HDV
+ 
+Memoria principal	Silicon Power Value Gaming DDR4 RAM 16 GB (8GBx2) 3200MHz (PC4 25600) CL16 1.35V 
+ 
+Memoria secundaria	Western Digital Disco duro WD Blue PC de 2 TB - 5400 RPM, SATA 6 Gb/s, 
+			caché de 256 MB, 3.5" - WD20EZAZ.
+
+

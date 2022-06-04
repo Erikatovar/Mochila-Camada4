@@ -1,0 +1,10 @@
+GAMA BAJA AMD
+
+Procesador		AMD Athlon 320GE 3.5Ghz AM4
+
+Placa madre		ASUS Prime B450M-A II AMD AM4 
+		
+Memoria ram		Patriot Viper Steel DDR4 8GB (2 x 4GB) 3200MHz Kit de memoria - PVS48G320C6K		
+ 
+Memoria secundaria	Western Digital Disco duro WD Blue PC de 2 TB - 5400 RPM, SATA 6 Gb/s, 
+			caché de 256 MB, 3.5" - WD20EZAZ.

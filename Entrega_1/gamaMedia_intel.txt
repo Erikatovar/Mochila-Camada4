@@ -1,0 +1,16 @@
+GAMA MEDIA INTEL
+
+Procesador		Intel® Core™ i5-11400 Procesador de sobremesa 6 núcleos hasta 4,4 GHz LGA1200 
+			(Intel® serie 500 y chipset Select serie 400) 65W
+ 
+Placa madre		ASUS PRIME B560M-A S1200 11th Gen
+
+Memoria principal	Corsair Vengeance LPX 16GB (2x8GB) DDR4 DRAM 3200MHz C16 Kit 
+			de memoria de escritorio - negro (CMK16GX4M2B3200C16)
+ 
+Memoria secundaria	Seagate IronWolf HDD NAS 1TB - Unidad de disco duro CMR 3.5 pulgadas, 
+			SATA 6Gb/s 5900 RPM caché de 64MB para almacenamiento en la red RAID, 
+			empaque sin frustración (ST1000VN002) Mod.:ST1000VNZ02/VN002
+
+GPU			MSI Gaming GeForce GTX 1650 128-Bit HDMI/DP/DVI 4GB GDRR6 HDCP 
+			Compatible con DirectX 12 VR Ready OC Tarjeta gráfica (GTX 1650 D6 Ventus XS OC.
