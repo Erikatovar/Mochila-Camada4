@@ -1,0 +1,25 @@
+1. Descripción del sistema Operativo Debian
+Es un Sistema Operativo que está basado en el Kernel de linux, Debian viene con más de 50.000 paquetes (software precompilado que se incluye en un formato agradable para una fácil instalación en su máquina), todo gratis. Es tipo de SO es multiusuario porque se puede ejecutar programas en sesiones simultáneas, es multitarea porque permite ejecutar varios programas al tiempo, es un de tipo distribuido y se puede modificar. 
+
+2. Este sistema operativo es Opensource
+
+3. Requisitos mínimos del had para el SO Debian
+Memoria secundiaria: 10Gb
+RAM: 256Mb
+Procesador: Pentium 4A1 Ghz
+Requisitos óptimos:
+Memoria secundaria: 20Gb
+RAM: 1gb
+Procesador: i5
+
+4. Accediendo a la ventana de comandos: 
+Para abrir la terminal debes dar click en el ícono que dice «Terminal» o mover la selección con las teclas de flechas (abajo, izquierda o derecha) hasta que la selección esté sobre este ícono de la terminal y presionar la tecla Intro o Enter.
+
+5. Este sistema operativo permite la instalación de aplicaciones que sean compatibles con la extensión (formato) ".deb" y otros, es importante aclarar que para poder instalar aplicaciones se debe contar con permisos de administrador de la cuenta. Este sistema operativo al ser libre, permite la instalación de cualquier aplicación compatible con el mismo.
+
+6. Este sistema operativo trae instalado por defecto varios juegos.
+
+
+
+
+
