@@ -1,0 +1,39 @@
+Gama baja - Intel													
+Procesador:	Core i3 9100												
+Placa madre:	gigabyte GA-H110M-S2PH												
+Memoria principal:	Memoria Adata DDR4 4GB 2666MHz Value												
+Memoria secundaria:	Disco Rígido WD 1TB BLACK 64MB SATA 6.0GB/s												
+													
+Gama media - Intel													
+Procesador:	Core i5-10500												
+Placa madre:	ASUS PRIME B560M-A S1200 11th Gen												
+Memoria ram:	Memoria GeiL DDR4 16GB 3000MHz Orion RGB Red												
+Memoria secundaria:	Disco Sólido SSD Kingston 960GB A400 500MB/s												
+GPU:	Placa de Video ASUS GeForce GTX 1660 SUPER 6GB GDDR6 OC TUF												
+													
+Gama alta - Intel													
+Procesador:	Core i7-11700KF												
+Placa madre:	msi MEG Z590 ACE GOLD EDITION												
+Memoria ram:	Memoria Patriot Viper DDR4 64GB (2x32GB) 3200Mhz Steel RGB Black												
+Memoria secundaria:	Disco Sólido SSD M.2 Gigabyte AORUS 1TB 5000MB/s NVMe PCI-E x4 Gen4												
+GPU:	Placa de Video MSI GeForce RTX 3090 24GB GDDR6X VENTUS 3X OC												
+													
+Gama baja - AMD													
+Procesador:	AMD Athlon 320GE 3.5Ghz AM4												
+Placa madre:	gigabyte GA-A320M-S2H (rev. 3.x)												
+Memoria ram:	Memoria Adata DDR4 4GB 2666MHz Value												
+Memoria secundaria:	Disco Rígido WD 1TB BLACK 64MB SATA 6.0GB/s												
+													
+Gama media - AMD													
+Procesador:	Ryzen 5 3600												
+Placa madre:	A320M Asrock												
+Memoria ram:	Memoria GeiL DDR4 16GB 3000MHz Orion RGB Red												
+Memoria secundaria:	Disco Sólido SSD Kingston 960GB A400 500MB/s												
+GPU:	Placa de Video ASUS GeForce GTX 1660 SUPER 6GB GDDR6 OC TUF												
+													
+Gama alta - AMD													
+Procesador:	Amd Ryzen 9 5950X 4.9GHz Turbo AM4												
+Placa madre:	Asus ROG Strix TRX40-E Gaming AMD 3ª generación AMD Ryzen Threadripper sTR4 ATX Motherboard- 16 Power Stages, WiFi incorporado 6 802.11Ax, 2.5Gbps, USB 3.2 Gen2												
+Memoria ram:	Memoria Patriot Viper DDR4 64GB (2x32GB) 3200Mhz Steel RGB Black												
+Memoria secundaria:	Disco Sólido SSD M.2 Gigabyte AORUS 1TB 5000MB/s NVMe PCI-E x4 Gen4												
+GPU:	Placa de Video MSI GeForce RTX 3090 24GB GDDR6X VENTUS 3X OC												
