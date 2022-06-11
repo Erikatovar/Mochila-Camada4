@@ -1,0 +1,48 @@
+GAMA BAJA - INTEL	
+Procesador	Core i3 9100
+Placa madre	ASRock H310CM-DVS Micro ATX LGA1151 Motherboard
+Memoria principal	Kingston ValueRAM 4 GB (1 x 4 GB) DDR4-3200 CL22 Memory
+Memoria secundaria	Toshiba 320 GB 2.5" 5400RPM Internal Hard Drive
+	
+	
+GAMA BAJA - AMD	
+Procesador	AMD Athlon 320GE 3.5Ghz AM4
+Placa madre	Placa base MSI A320M PRO-VH ProSeries
+Memoria ram	Corsair Vengeance - DDR4 - 8GB Kit (2x4GB)
+Memoria secundaria	WD Blue 500 GB – 7200 RPM
+	
+	
+GAMA MEDIA- INTEL	
+Procesador	Intel Core i5 11400F S1200 11th Gen Rocket Lake
+Placa madre	ASUS PRIME B560M-A S1200 11th Gen
+Memoria principal	Memoria Mushkin DDR4 8GB 3200MHz Essentials
+Memoria secundaria	Disco Solido SSD Patriot 120GB Burst Elite
+GPU	Placa de Video GeForce MSI GTX 1050 Ti 4GB GDDR5 OC Dual Fan
+	
+	
+	
+GAMA MEDIA-AMD	
+Procesador	AMD Ryzen 5 3600 3.6 GHz 6-Core Processor
+Placa madre	 A320M Asrock
+Memoria principal	G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory
+Memoria secundaria	Samsung 980 Pro 1 TB M.2-2280 NVME Solid State Drive
+GPU	GeForce RTX 2060 6 GB DUAL EVO OC Video Card
+	
+	
+	
+	
+GAMA ALTA - INTEL	
+Procesador	Core i7-11700KF
+Placa Madre	Asus ROG STRIX Z590-E GAMING WIFI ATX LGA1200 Motherboard
+Memoria principal	Corsair Vengeance RGB Pro SL 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory
+Memoria secundaria	Team QX 15.3 TB 2.5" Solid State Drive
+GPU	GeForce RTX 3080 Ti 12 GB FTW3 ULTRA GAMING LE iCX3 Video Card
+	
+	
+	
+GAMA ALTA - AMD	
+Procesador	Amd Ryzen 9 5950X 4.9GHz Turbo AM4
+Placa Madre	Asus ROG STRIX B550-F GAMING (WI-FI) ATX AM4 Motherboard
+Memoria principal	G.Skill Trident Z RGB 32 GB (2 x 16 GB) DDR4-3600 CL16 Memory
+Memoria secundaria	Western Digital Black SN850 2 TB M.2-2280 NVME Solid State Drive
+GPU	GeForce RTX 3090 24 GB FTW3 ULTRA GAMING Video Card
