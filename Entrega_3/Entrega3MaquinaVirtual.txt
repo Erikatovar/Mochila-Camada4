@@ -1,0 +1,29 @@
+Respuestas preguntas consigna:
+
+¿Por qué un lenguaje de programación solo puede utilizarse en algunos sistemas operativos y en otros no?
+Porque algunos lenguajes de programación requieren de ciertas especificaciones para podersen ejecutar en ciertos ambientes compatibles, en este caso sistemas operativos.
+Por lo general, el lenguaje de programación compila en un lenguaje ensamblador el cual es ejecutado por el sistema operativo que a su vez depende de la arqquitectura del procesador y la interpretación que le de el S.O
+
+¿Que tipo de maquina virtual soporta virtualBox?
+VirtualBox se distribuye como un software totalmente gratuito para Windows, macOS, Linux y Solaris. Además soporta gran cantidad de sistemas operativos, aunque algunos tienen ciertos problemas de compatibilidad como Windows 98.
+
+Los sistemas más relevantes que podemos virtualizar sin problema son:
+* Windows XP hasta la última versión de Windows 10
+* Ubuntu
+* Debian
+* SUSE
+* Fedora
+* Oracle Linux
+* Solaris
+* MAC OS X Server
+*Entre otros
+
+¿Que función cumple el Hypervisor en la virtualización?
+Es una capa de software que se instala sobre la parte fisica del computador su función es asignar recursos fisicos como RAM, SSD y CPU.
+Cumple la función de administrar la maquina virtual permitiendo a su vez la instalación de varias de ellas en simultaneo.
+
+Si tengo más de una máquina virtual instalada, y si una se rompe , ¿esto afecta a las demás? ¿Por qué?
+
+Una de las caracteristicas principales de una maquina virtual es que se pueda contar con un S.O o varios totalmente independientes del sistema sobre el cual esten corriendo las mismas
+Por esta razón al ocasionarse un daño o una ruptura en el sistema operativo de la MV no afectará al S.O principal porque la MV no afecta directamente al Hardware al no encontrarse instalada directamente sobre él.
+
