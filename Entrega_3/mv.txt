@@ -1,0 +1,44 @@
+
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos 
+sistemas operativos y en otros no?
+
+Porque un lenguaje de programación compila a lenguaje ensamblador 
+el cual es ejecutado por el sistema operativo, este lenguaje ensamblador 
+depende de 2 cosas, de la arquitectura del procesador y la interpretación 
+que le de el sistema operativo. Si en la computadora cambia la arquitectura 
+del procesador el lenguaje ensamblador es totalmente diferente y no va a 
+correr.
+
+¿Qué tipo de maquina virtual soporta la virtual box?
+
+Virtual Box es un software de virtualización para arquitecturas x86/amd64
+Por medio de esta aplicación es posible instalar sistemas operativos adicionales,
+ conocidos como «sistemas invitados», dentro de otro sistema operativo 
+'anfitrión', cada uno con su propio ambiente virtual.
+
+Entre los sistemas operativos soportados (en modo anfitrión) se encuentran
+GNU/Linux, Mac OS X, OS/2 Warp, Microsoft Windows, y Solaris/OpenSolaris, 
+y dentro de ellos es posible virtualizar los sistemas operativos FreeBSD, 
+GNU/Linux, OpenBSD, OS/2 Warp, Windows, Solaris, MS-DOS y muchos otros.
+
+¿Qué  funcion cumple el hipervisor en la virtualización?
+
+Un hipervisor es el monitor de máquina virtual que nos permite trabajar con 
+tecnologías de virtualización, un método rápido, cómodo y seguro para 
+ejecución o pruebas de sistemas operativos, aplicaciones, juegos o emuladores,
+ de manera independiente al sistema principal que actúa como anfitrión.
+
+El hipervisor actúa como la plataforma para máquinas virtuales. Proporciona 
+la división necesaria entre el sistema operativo de la máquina virtual y el 
+hardware de la máquina host. La máquina donde se hospeda puede compartir 
+sus recursos, como la memoria RAM y la potencia de procesamiento, en múltiples 
+cargas de trabajo.De esta forma, todos los hipervisores permiten ejecutar entornos
+ de máquina virtual en una máquina host.
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las 
+demás? ¿por qué?
+
+No,  ya que cada uno de los sistemas operativos que virtualizamos es completamente
+ independiente de los otros sistemas operativos. De este modo en el caso que una de
+ las máquinas virtuales deje de funcionar, el resto seguirá funcionando sin ningún tipo
+ de problema.
