@@ -1,0 +1,50 @@
+GAMA BAJA:
+
+Computador#1 Intel
+Procesador -> Core i3 9100
+Placa madre -> ASRock B365M-HDV Micro ATX LGA1151
+Memoria RAM -> Timetec 8 GB DDR4 2400 MHz
+Memoria secundaria -> SSD interno unidad de estado sólido SATA de 128 GB M.2 2280  modelo CVB-8D128
+GPU integrada
+
+Computador#2 AMD
+Procesador -> AMD Athlon 320GE 3.5Ghz AM4
+Placa madre -> Gigabyte B450M DS3H
+Memoria RAM -> OWC 8 GB 2666 MHz DDR4 PC4-21300 SO-DIMM 260
+Memoria secundaria -> SSD interno unidad de estado sólido SATA de 128 GB M.2 2280  modelo CVB-8D128 
+GPU integrada
+
+----------------------------------------------------------------------------------------------------------------------
+GAMA MEDIA:
+
+Computador#1 Intel
+Procesador -> Intel® Core™ i5-11600
+Placa madre -> ASUS PRIME B560M-A S1200 11th Gen
+Memoria RAM -> Corsair Vengeance LPX 16GB (2x8GB) DDR4 DRAM 3200MHz
+Memoria secundaria -> SAMSUNG 980 PRO SSD interno M.2 para juegos PCIe NVMe Gen4 de 500 GB (MZ-V8P500B)
+GPU -> integrada y GTX 1650
+
+Computador#2 AMD
+Procesador -> AMD Ryzen 5 1600 (14nm) 3.2 GHz 6-Core Processor
+Placa madre -> A320M-HDV R4.0
+Memoria RAM -> Corsair Vengeance LPX 16GB (2x8GB) DDR4 DRAM 3200MHz
+Memoria secundaria -> Crucial P2 500GB 3D NAND NVMe PCIe M.2 SSD hasta 2400MB/s - CT500P2SSD8
+GPU -> GTX 1050 ti
+
+--------------------------------------------------------------------------------------------------------------------
+GAMA ALTA:
+
+Computador#1 Intel
+Procesador -> Core i7-11700KF
+Placa madre -> ROG Maximus XIII Hero (WiFi 6E) Z590 LGA 1200
+Memoria RAM -> Patriot Signature Premium DDR4 32GB (2x16GB) 3200MHz (PC4-25600)
+Memoria secundaria -> SAMSUNG 980 SSD de 1 TB M.2 NVMe Interface Unidad de estado sólido
+GPU -> RTX 3090
+
+Computador#2 AMD
+Procesador -> AMD Ryzen™ 9 5950X
+Placa madre -> ASUS TUF GAMING X570-PRO (Wi-Fi 6)
+Memoria RAM -> Patriot Signature Premium DDR4 32GB (2x16GB) 3200MHz (PC4-25600)
+Memoria secundaria -> SAMSUNG 980 SSD de 1 TB M.2 NVMe Interface Unidad de estado sólido
+GPU -> RTX 3080 ti
+
