@@ -1,0 +1,11 @@
+
+1. porque un lenguaje de programación solo puede utilizarse en algunos sistemas operativos y en otros no?
+ Los lenguajes de programacion necesitan de compiladores que sean compatibles con el sistema operativo 
+
+2. que tipo de maquina virtual virtualBox?
+Es una maquina virtual de sistemas donde se pueden instalar varios sistemas operativos y correrlos desde un solo dispositivo 
+
+3. Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+No afectaria nada que este por fuera de la maquina virtual ya que usamos un sistema operativo emulado por este programa y una de sus funciones y finalidades es realizar este tipo de tareas  
+
+
