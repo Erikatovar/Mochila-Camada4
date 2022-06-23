@@ -1,0 +1,12 @@
+- Dirección Mac: 48:E7:DA:39:6A:77
+Marca de Placa de Red: AzureWave Technology Inc.
+
+- Dirección IP Privada: 192.168.20.1
+Esta dirección IP privada es de CLASE C.
+
+- Dirección IP Pública: 192.168.20.153
+Esta dirección IP pública es de CLASE C.
+
+- Máscara de Subred: 255.255.255.0
+
+
