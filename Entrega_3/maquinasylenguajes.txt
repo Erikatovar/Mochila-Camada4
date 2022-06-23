@@ -1,0 +1,29 @@
+--Actividad 3 entregable Mochila
+
+¿Por qué algunos lenguajes de programación solo pueden utilizarse 
+en algunos Sistemas Operativos y en otros no?
+
+Esto dependerá de la compilación del lenguaje a lenguaje máquina y la manera
+en que el sistema operativo trabaja esas instrucciones, por lo que no será 
+lo mismo un programa para Windows que para Mac OS.
+
+
+¿Qué tipo de máquina virtual es VirtualBox?
+
+Es un software de virtualización multiplataforma, esto significa que puede ejecutarse 
+indististamente del sistema operativo. Es una máquina virtual de sistema, 
+gracias a VirtualBox en este momento estoy trabajando con Ubuntu una distro 
+basada en  Linux en mi laptop que corre Windows 10 Pro.
+
+Si tengo más de una máquina virtual instalada y una se rompe,
+¿esto afecta a las demás?¿Por qué?
+
+Si tengo más de una máquina virtual y una de ellas falla, esto no afecta
+a las demás, debido a que existen mediante virtualización y a cada una de 
+ellas les corresponde una porción de hardware para funcionar y son monitoreads
+por el hipervisor. Aunque las máquinas existen dentro de un mismo software de
+virtualización como VirtualBox son en si mismas entidades aisladas 
+que no comprometen a las demás.
+
+
+
