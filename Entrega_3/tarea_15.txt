@@ -1,1 +1,16 @@
-/home/usuario/tarea_15.txt
+¿Por qué un lenguaje de programación solo puede utilizarse en algunos sistemas operativos y en otros no?
+
+Porque un lenguaje de programación compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, este lenguaje ensamblador depende de 2 cosas: la arquitectura del procesador y la interpretación que le dé el sistema operativo. Si en una computadora cambia la arquitectura del procesador el lenguaje ensamblador es totalmente diferente y no va a a correr. 
+
+¿Qué tipo de máquina virtual soporta VirtualBox?
+
+En vista que VB es un software de virtualización para arquitecturas x86/amd64, donde es posible instalar sistemas operativos adicionales, conocidos como «sistemas invitados», dentro de otros sistema operativo «anfitrión», cada uno con su propio ambiente virtaul. Entre los sistemas operativos soportados (en modo anfitrión) se encuentran GNU/Linux, MAC OS X, OS/2 Warp, Genode, Windows y Solaris/OpenSolaris, y dentro de ellos es posible bvirtualizar los sistemas operativos FreeBSD, GNU/Linux, OpenBSD, OS/2 Warp, Windwos, Solaris, MS-DOS, Genode y muchos otros. En resumen permite virtualizar sistemas operativos. 
+
+¿Qué función cumple el hypervisor en la virtualización?
+un hypervisor, conocido también como monitor de máqinas virtuales, es un software que crea y ejecuta máquinas virtuales. Un hypervisor permite que un ordenador host preste soporte a varias máquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento. 
+
+En general, hay dos tipos de hypervisores. Los de tipo 1, denominados «hypervisor bare metal», se ejecutan directamente en el hardware del host. Los de tipo 2, denominados «alojados», se ejecutan como una capa de software sobre un sistema operativo, como otros programas informáticos. 
+
+Si tengo más de una máquina virtual instala, y se rompe una, ¿esto afecta a las demás? ¿por qué?
+
+No, porque cada máquina virtual es un entorno aislado uno del otro. De este modo, no afecta el contenido dentro de otros, por esto mismo es posible crear muchas máquinas virtuales de diferentes sistemas sin tener problema alguno. 
