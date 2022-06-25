@@ -1,0 +1,33 @@
+Se puede instalar fácilmente a través de la línea de comandos de la siguiente manera:
+Abra la Terminal a través del acceso directo Ctrl + Alt + T o la búsqueda del Lanzador de aplicaciones de Ubuntu.
+Ingrese el siguiente comando para actualizar el índice de repositorio de su sistema con el de los repositorios de Internet:
+$ sudo apt-get update
+De esta forma, puede instalar la última versión de software disponible en su sistema.
+Luego ingrese el siguiente comando para instalar Mozilla Firefox desde el repositorio oficial de Ubuntu:
+$ sudo apt install firefox
+Tenga en cuenta que solo un usuario autorizado (sudo) puede agregar, eliminar y configurar software en Ubuntu. Ingrese la contraseña para sudo después de lo cual comenzará el procedimiento de instalación
+Esto puede llevar algún tiempo, dependiendo de la velocidad de Internet, después de lo cual se instalará Firefox en su sistema. Ejecuta Firefox
+Ejecute el siguiente comando en su Terminal para iniciar Firefox:
+$ firefox
+
+
+¿por qué el lenguaje de programación solo puede utlizarse en algunos sistemas operativos y en otros no ?
+
+Porque un lenguaje de programación compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, este lenguaje ensamblador depende de 2 cosas, de la arquitectura del procesador y la interpretación que le de el sistema operativo.
+
+
+¿qué tipo de máquina virtual soporta virtualBox?
+
+VirtualBox ofrece un soporte mucho más completo. Tiene versiones para Windows, Linux, Macintosh y Solaris, y puede ejecutar un amplísimo número de sistemas operativos invitados, incluidos Windows, macOS, Linux, DOS, Solaris u OpenBSD
+
+
+
+¿qué función cumple el hypervisor en la virtualización?
+Un hipervisor, conocido también como monitor de máquinas virtuales, es un proceso que crea y ejecuta máquinas virtuales. Un hipervisor permite que un ordenador host preste soporte a varias máquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento.
+
+
+
+
+si tengo más de una máquina virtual instalada, y una se rompe , esto afecta a las demás ? ¿por qué? 
+
+Las máquinas virtuales de procesos se ejecutan en un mismo servidor para ejecutar varias instancias de la misma aplicación de forma separada. De ese modo, si una de ellas falla, no afectará al funcionamiento del resto.
