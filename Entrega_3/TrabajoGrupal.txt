@@ -3,8 +3,8 @@
    Imagen está en la mochila en la carpeta de la entrega 3.
 
 2. sudo apt-get install firefox Una vez instalado git. Investigar con qué comando se puede descargar el
-   navegador Mozilla Firefox y ejecutarlo. Una vez instalado deberán abrir en la pestaña del navegador 
-   https://github.com/ abrir sus respectivas cuentas en sus navegadores y clonar la mochila en sus máquinas 
+   navegador Mozilla Firefox y ejecutarlo. Una vez instalado deberán abrir en la pestaña del navegador
+   https://github.com/ abrir sus respectivas cuentas en sus navegadores y clonar la mochila en sus máquinas
    virtuales.
 
 
@@ -15,25 +15,23 @@
 
 
 
-
-
-
 ● ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
-sistemas operativos y en otros no?.
-
+  sistemas operativos y en otros no?.
+  Depende del lenguaje mismo en el que el SO fue diseñado y de si ese SO posee o no un 
+  un interprete o compilador para el otro lenguaje de programacion que se quire ejecutar
 
 ● ¿Qué tipo de máquina virtual soporta virtualBox?.
 
-  VirtualBox soporta maquinas virtuales de sistemas operativos. 
+  VirtualBox soporta máquinas virtuales de sistemas operativos.
 
 ● ¿Qué función cumple el hypervisor en la virtualización?
-  
-  El hypervisor es un administrador de maquinas virtuales (administra lo recursos físicos y virtuales de los guest).
+ 
+  El hypervisor es un administrador de máquinas virtuales (administra los recursos físicos y virtuales de los guest).
 
 ● Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta
   a las demás? ¿por qué?
 
-  No, porque cada maquina virtual funciona como un PC diferente (aunque está en el mismo PC tiene asignado una parte 
-  de los recursos del hardware a cada una de las maquinas virtuales).
+  No, porque cada máquina virtual funciona como un PC diferente (aunque en el mismo PC tiene asignado una parte
+  de los recursos del hardware a cada una de las máquinas virtuales).
  
 ● Subir este archivo a la mochila del viajero desde la máquina virtual.
