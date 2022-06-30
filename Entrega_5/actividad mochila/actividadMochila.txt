@@ -1,0 +1,54 @@
+¿Las ip públicas son las mismas? ¿por qué?
+IP OPERA: 77.111.246.40
+IP TOR:192.42.116.18
+IP CHROME: 201.232.215.9
+IP EDGE: 201.232.215.9
+
+las IP publicas estan usando el mismo servidor del proveedor de internet
+por eso son iguales.
+En Opera con la VPN activa , cambia la ubicación aparente redirigiendo tu tráfico a través de un servidor 
+que está ubicado en otro lugar.
+TOR me asina en forma aleatoria un direccion IP
+
+Sin utilizar la VPN puedes ver el siguiente video? 
+Ahora activala e intenta verlo, 
+¿que es lo que sucedió?¿Por qué?
+El contenido del video esta bloqueado para Colombia si
+usamos VPN me ubica en un pais donde no esta bloquiado el
+contenido del video.
+
+Utilizando Tor ¿pudimos localizar la IP ?  
+Nos genera una direccion IP, 
+pero deja en anonimo la ubicacion de la misma.
+
+En Opera sin VPN debemos consultar nuestra velocidad de subida, 
+bajada y el ping, anotar estos valores.
+Descarga: 336.33 Mbps 	
+Subida: 18.94 Mbps	
+ping 7 37 7
+
+
+En Opera con VPN activada debemos consular nuestra velocidad de subida, 
+bajada y el ping, anotando estos valores. 
+Descarga: 1.89 Mbps 	
+Subida: 11.56 Mbps	
+ping 149 142 150
+
+
+Con Tor y su red activada, debemos consultar nuestra velocidad de subida, 
+bajada y el ping, anotando estos valores.
+DOWNLOAD TEST ERROR
+
+Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+
+
+¿Que significa el valor del ping?
+
+Cuando hablamos de ping hace referencia al tiempo exacto que tarda en transmitirse 
+un paquete dentro de la red. Básicamente lo que tarda en llegar desde el servidor a nuestro equipo. 
+Mientras mayor sea, peor.
+
+El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+
+
+
