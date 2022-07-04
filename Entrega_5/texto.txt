@@ -1,0 +1,59 @@
+En Opera (o cualquier browser sin VPN) debemos consultar nuestra dirección IP pública y anotar. 
+Tu dirección IP es 181.58.38.79
+
+En Opera con VPN activada debemos consultar nuestra ip y consultar su geolocalización (podemos hacerlo desde la página cual es mi IP) y anotar.
+77.111.246.40
+País United States
+Ciudad
+Latitud 37.750999450684
+Longitud-97.821998596191
+ISP Opera Mini Proxy
+
+Con Tor y su red activada, debemos consultar nuestra ip y consultar la localización de la misma.
+94.140.114.174
+País	Anonymous Proxy
+Ciudad	
+Latitud	0
+Longitud	0
+ISP	F3 Netze e.V.
+
+¿Las ip públicas son las mismas? ¿por qué?
+No, debido que la VPN altera tu dirección IP cambiándola por la dirección IP del servidor VPN que estés usando.
+
+Sin utilizar la VPN puedes ver el siguiente video?
+NO
+
+Ahora activala e intenta verlo, ¿qué es lo que sucedió? ¿Por qué?
+Si, porque esta puede desbloquear videos sin restricciones geográficas en YouTube.
+
+Utilizando Tor ¿pudimos localizar la IP?  
+No, simplemente da el número IP.
+
+En Opera sin VPN debemos consultar nuestra velocidad de subida, bajada y el ping, anotar estos valores.
+DESCARGA Mbps
+7.70
+ SUBIDA Mbps
+9.45
+Ping ms  141  433  584
+
+En Opera con VPN activada debemos consular nuestra velocidad de subida, bajada y el ping, anotando estos valores. 
+DOWNLOAD Mbps
+1.24
+ UPLOAD Mbps
+5.77
+Ping ms  297  211  331
+
+Con Tor y su red activada, debemos consultar nuestra velocidad de subida, bajada y el ping, anotando estos valores.
+Download Mbps 
+4.59 
+Upload Mbps 
+3.47 
+Ping ms 480 652 450 
+
+¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+si,las VPN pueden hacer que la velocidad sea muy limitada, que haya cortes continuos o que incluso no podamos navegar por la red. 
+
+¿Qué significa el valor del ping?
+el ping es la medida que se ocupa para medir la latencia y es expresado en milisegundos (o en su abreviación ms).
+El valor del ping, ¿varía entre las diferentes opciones? ¿Por qué?
+Dependiendo de la distancia del servidor al que te conectes la latencia puede subir o bajar, la diferencia serán milisegundos, pero a veces son milisegundos que importan. Con estos test, puedes comprobar las variaciones eligiendo el servidor al que se conectan.
