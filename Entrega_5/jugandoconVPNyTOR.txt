@@ -1,0 +1,31 @@
+¿Las i públicas son las mismas? ¿por qué?
+
+No, porque  la vpn nos da la ip de el servidor de vpn
+Y en la red tor la ip que muestra es la ip de el ultimo equipo de la cadena.
+
+Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+
+No, dice “Video no disponible
+Quien subió este video no permitió que estuviera disponible en tu país.
+“
+Sucede ya que el video tiene un bloqueo regional y solo se puede ver en NZ
+
+Utilizando Tor ¿pudimos localizar la IP ?  
+Si, es diferente a la de la vpn.
+
+En Opera sin VPN debemos consultar nuestra velocidad de subida, bajada y el ping, anotar estos valores.
+ Descarga Mbps
+42.54
+
+Subida Mbps
+5.95
+
+Ping ms  11
+
+
+En Opera con VPN activada debemos consular nuestra velocidad de subida, bajada y el ping, anotando estos valores. 
+DOWNLOAD Mbps
+41.59
+UPLOAD Mbps
+8.10
+Ping ms 121
