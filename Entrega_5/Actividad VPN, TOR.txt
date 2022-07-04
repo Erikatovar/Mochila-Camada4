@@ -1,0 +1,64 @@
+IP Chrome y opera sin VPN - 186.113.129.44
+
+Opera, geolocalizacion - 77.111.246.40. 
+País	United States
+Ciudad	
+Latitud	37.750999450684
+Longitud	-97.821998596191
+ISP	Opera Mini Proxy
+
+
+THOR - 185.14.97.176
+País 	Anonymous Proxy
+Ciudad 	
+Latitud 	0
+Longitud 	0
+ISP 	TerraHost
+
+
+¿Las ip públicas son las mismas? ¿por qué?
+No. El VPN cambia tu ubicación aparente redirigiendo tu tráfico a través de un servidor que está ubicado en otro lugar, 
+Tor hace uso de una red de computadoras a través de las cuales redirecciona el tráfico antes de mostrar la dirección IP modificada.
+
+Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+No. Ya que el video seguramente esta restringido para ciertos paises y al cambiar el servidor de origen se cambia la ubicacion 
+aparente de peticion y permite verlo.
+
+Utilizando Tor ¿pudimos localizar la IP ?  
+No. Tor da una IP que geográficamente se encuentra en otro lugar. Para verificarlo puedes hacer uso de los servicios que te permiten 
+conocer la dirección IP con la que navegas.
+
+En Opera sin VPN debemos consultar nuestra velocidad de subida, bajada y el ping, anotar estos valores.
+ DESCARGA Mbps
+343.79
+ SUBIDA Mbps
+120.97
+Ping ms  97  89  104
+
+En Opera con VPN activada debemos consular nuestra velocidad de subida, bajada y el ping, anotando estos valores. 
+ DESCARGA Mbps
+2.61
+ SUBIDA Mbps
+17.27
+Ping ms  115  127 Descarga  126 Subida
+
+
+Con Tor y su red activada, debemos consultar nuestra velocidad de subida, bajada y el ping, anotando estos valores.
+Descarga Mbps
+0.88
+Subida Mbps
+2.21
+Ping ms 410 1350 --
+
+
+¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+Si. Dado que la VPN cifra su tráfico y utiliza servidores en otros lugares, el uso de dicho servicio puede afectar la velocidad de 
+su conexión en la mayoría de casos.
+
+¿Que significa el valor del ping?
+Unidad de medida para medir latencia. la latencia es el tiempo que tarda en transmitirse un paquete de datos dentro de la red.
+
+El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+Si, debido a que se utilizan diferentes servidores que segun su lugar puede variar la distancia de localizacion, en el tor se aumenta tambien 
+por la necesidad de transitar la informacion entre multiples nodos aumentando la latencia.
+
