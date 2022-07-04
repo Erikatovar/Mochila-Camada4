@@ -1,0 +1,14 @@
+¿Por qué un lenguaje de programación puede utilizarse en algunos sistemas oper>
+
+Un lenguaje de programación puede ser usado siempre y cuando en mi sistema hay>
+Si el sistema operativo que uso no es compatible con tal intérprete o compilad>
+
+¿Qué tipo de máquina virtual es VirtualBox?
+
+VirtualBox es una máquina virtual de sistema ya que ésta reproduce uno o vario>
+
+Si tengo más de una máquina virtual y una se rompe ¿esto afecta a las demás y >
+
+Si una de las máquinas virtuales se rompe, esto no afectará a las demás ya que>
+
+
