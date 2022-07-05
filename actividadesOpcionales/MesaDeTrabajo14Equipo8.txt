@@ -1,0 +1,46 @@
+Por cada uno de los lenguajes asignados por mesa deberán realizar los siguientes puntos:
+
+ ¿Qué tipo de ejecución (compilado, interpretado, etc) tiene el lenguaje? 
+ Los lenguajes que nos correspondió fueron: Perl y Fortran, son lenguajes interpretados, como la mayoría de lenguajes de programación web, como PHP o JavaScript. Eso significa que el código fuente no se compila, para transformarlo a lenguaje máquina, sino que se va leyendo el código y se interpreta en cada línea de ejecución.
+
+¿Para qué tipo de desarrollo se utiliza normalmente el lenguaje?
+Perl: Está dedicado para crear apps CGI para entornos web. 
+Fortran: Es un lenguaje que se usa para crear apps científicas y de ingeniería.
+
+¿Con que ide o editor de texto puede utilizar el lenguaje? Nombre de una librería o framework famoso del mismo.
+Tanto Perl como Fortran se pueden usar en un entorno de desarrollo integrado online como mycompiler. 
+
+Fortran se puede usar en IDEs como Geany, NetBeans, Elicpse, Visual Studio, y en editores de texto tales como: Visual Studio Code, Sublimetext, Notepad++.
+Una de las librerías más reconocidas de este lenguaje es: IMSL,ORTRAN NUMERICAL LIBRARY es una biblioteca con algoritmos matemáticos y estadísticos para desarrolladores en Fortran. Combina las capacidades flexibles y poderosas de la interface del lenguaje Fortran con los beneficios en el desempeño en arquitectura de múltiples procesadores tanto de memoria distribuida como de memoria compartida.
+
+Perl se puede usar en IDE: Padre,Komodo,Epic y en editores tales como: Editor: VIM, Emacs, TexteMate, Notepad++, Gedit, Textpad.
+Una de las librerías más reconocidas de este lenguaje es: Catalyst, este es un framework para aplicaciones de desarrollo web que te facilita el trabajo porque las aplicaciones pueden ser muy grandes y escalables.
+
+Investigar y realizar en la sintaxis del lenguaje dado, la siguiente operación matemática: 
+x = 4
+y = 5 
+z = x + y 
+mostrar por pantalla z
+
+Para Perl la sintaxis debe ser escrita de la siguiente forma:
+$x = 4;
+$y = 5;
+$z = $x + $y;
+print $z;
+
+Para Fortran la sintaxis debe ser escrita de la siguiente forma:
+    program progamSuma
+    implicit none
+    integer :: x,y,z
+    
+    x= 4
+    y= 5 
+    z=x+y
+    print *, "La suma de los dos numeros es: ", z
+
+    end program 
+
+    
+Opcional: Crea un código que te parezca interesante o que quieras compartir con tus compañeros.
+Haciendo clic en los iconos podrás dirigirte a la web mencionada por cada lenguaje. Una vez resuelto, comparte los resultados con tus compañeros y compañeras!!
+ 
