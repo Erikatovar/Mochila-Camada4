@@ -1,0 +1,31 @@
+
+¿Quién inventó el sistema de control de versión Git y por qué?
+	Github fue desarrollado por Chris Wanstrath, P. J. 
+	Hyett, Tom Preston-Werner y Scott Chacon usando Ruby on Rails
+	Este sistema se invento por la necesidad de trabajo colaborativo, 
+	asincronico donde prima el control de versiones y modificaciones de un proyecto.
+
+¿A quién pertenece actualmente Github y por qué?
+	Microsoft, compró y se apodero de GitHub por la cantidad de 7500 millones de dólares, 
+	ya que vio el potencial en la nueva era y en los desarrolladores, que estan escirbiendo el codigo del mundo.
+
+¿Hay otra forma que no sea la terminal para trabajar con Github?
+	Existen distintos tipos de clientes para trabajar de distintas formas:
+	Clientes Git GUI para Linux
+		1. QGit
+		2. Gitg
+		3. Git Force
+	Clientes Git para Windows
+		1. Sourcetree
+		2. GitHub
+		3. Tortoise Git
+	Clientes Git para Mac
+		1. GitUp
+		2. GitBox
+		3. GitX-dev
+	Clientes Git multiplataforma
+		1. GitKraken
+		2. SmartGit
+		3. Git Cola
+		4. Aurees
+
