@@ -8,4 +8,21 @@ b. A quien pertenece actualmente Git Hub y por que?
 Microsoft, se ha apoderado de  comunidad mas grande de desarrolladores del mudo.
 
 c. Hay otra forma que no sea la terminal para trabajar con Github?
-creeria que no (._.")
+Existen distintos tipos de clientes para trabajar de distintas formas:
+	Clientes Git GUI para Linux
+		1. QGit
+		2. Gitg
+		3. Git Force
+	Clientes Git para Windows
+		1. Sourcetree
+		2. GitHub
+		3. Tortoise Git
+	Clientes Git para Mac
+		1. GitUp
+		2. GitBox
+		3. GitX-dev
+	Clientes Git multiplataforma
+		1. GitKraken
+		2. SmartGit
+		3. Git Cola
+		4. Aurees
