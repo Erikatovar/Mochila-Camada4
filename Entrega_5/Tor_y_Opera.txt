@@ -16,7 +16,7 @@ No, no pude localizar mi IP, esto se da debido a que TOR me proporciona un anoni
 
 Las velocidades todas fueron diferentes, sin el VPN, la velocidad es mayor.
 En Opera con el VPN activado, la velocidad es menor ya que el VPN consume ancho de banda
-Con TOR, la velocidad fue aún menor y esto se debe a la propia arquitectura.
+Con TOR, la velocidad fue aún menor y esto se debe a la propia arquitectura
 
 
 ¿Que significa el valor del ping?
