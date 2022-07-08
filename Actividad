@@ -1,0 +1,18 @@
+¿Quién inventó el sistema de control de versión Git y por qué?
+Como muchas de las grandes cosas en esta vida, Git comenzó con un poco de destrucción creativa y una gran polémica.
+
+El kernel de Linux es un proyecto de software de código abierto con un alcance bastante amplio. Durante la mayor parte del mantenimiento del kernel de Linux (1991-2002), los cambios en el software se realizaban a través de parches y archivos. En el 2002, el proyecto del kernel de Linux empezó a usar un DVCS propietario llamado BitKeeper.
+
+En el 2005, la relación entre la comunidad que desarrollaba el kernel de Linux y la compañía que desarrollaba BitKeeper se vino abajo y la herramienta dejó de ser ofrecida de manera gratuita. Esto impulsó a la comunidad de desarrollo de Linux (y en particular a Linus Torvalds, el creador de Linux) a desarrollar su propia herramienta basada en algunas de las lecciones que aprendieron mientras usaban BitKeeper. Algunos de los objetivos del nuevo sistema fueron los siguientes:
+Velocidad
+
+Diseño sencillo
+
+Gran soporte para desarrollo no lineal (miles de ramas paralelas)
+
+Completamente distribuido
+
+Capaz de manejar grandes proyectos (como el kernel de Linux) eficientemente (velocidad y tamaño de los datos)
+¿A quién pertenece actualmente Github y por qué?
+plataforma de desarrollo colaborativa de software. Pero es mucho más que un wrapper o envoltorio de Git, el sistema de control de versiones creado originalmente por Linus Torvalds para controlar el desarrollo del kernel de Linux. Estamos hablando de una red social de facto, con más de 28 millones de usuarios y más de 85 millones de repositorios de código. En GitHub puedes seguir a otros desarrolladores, repositorios, colaborar en repositorios de terceros, discutir sobre bugs o proponer mejoras o nuevas características
+El 4 de junio de 2018, Microsoft compró GitHub por la cantidad de 7500 millones de dólares.1​2​ Al inicio, el cambio de propietario generó preocupaciones y la salida de algunos proyectos de este sitio;3​ sin embargo, no fueron representativos. GitHub continúa siendo la plataforma más importante de colaboración para proyectos de código abierto.
