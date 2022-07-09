@@ -1,0 +1,19 @@
+-¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
+
+R/ Los lenguajes de programación no se pueden utilizar en algunos sistemas operativos, ya que a estos les falta un
+Compilador que le indique que es lo que le está diciendo el código.
+
+-¿Qué tipo de máquina virtual soporta VirtualBox?. 
+
+R/ Es una máquina virtual que te permite emular sistemas operativos dentro de ella.
+
+-¿Qué función cumple el supervisor en la virtualización?
+
+R/ Permite que un ordenador host preste soporte a varias máquinas virtuales 
+
+Invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento.
+
+-Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+R/ No, esto se debe a que cada máquina virtual que esté montada es independiente de las demás y los cambios o 
+modificaciones que sufra solo actúan en la máquina que se esté utilizando en ese momento.
