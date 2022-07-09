@@ -1,0 +1,11 @@
+¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+
+Sí, sucede porque al tener una vpn activa la misma consume ancho de banda al conectarse con el servidor.
+
+¿Que significa el valor del ping?
+
+El ping hace referencia a la velocidad del intercambio de datos.
+
+El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+
+Sí, ya que con una VPN activa lo que sucede es que el intercambio de datos tendrá que realizar un recorrido mayor, puesto que tiene que recorrer los servidores de la VPN, también. 
