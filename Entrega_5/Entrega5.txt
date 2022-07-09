@@ -1,0 +1,44 @@
+
+Entrega Mochila 5
+
+🟢 ¿Las ip públicas son las mismas? ¿por qué?
+
+   Las direcciones IP Públicas son siempre únicas, es decir, no se pueden repetir. 
+   Dos equipos con IP de ese tipo pueden conectarse directamente entre sí, por ejemplo, 
+   tu router con un servidor web o dos servidores web entre sí.
+
+🟢 Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, 
+   ¿que es lo que sucedió?¿Por qué?
+
+    No, el video no aparece disponible.
+    Además Youtube aclara que el vídeo lo han bloqueado para mi país.
+
+🟢 Utilizando Tor ¿pudimos localizar la IP ?  
+
+    Si se pudo localizar, la diferencia radica en que es diferente a la de la vpn.
+
+//----------------------------------------------------------------------------------------------------------//
+
+🔴 En Opera sin VPN debemos consultar nuestra velocidad de subida, bajada y el ping, anotar estos valores.
+ 
+    ⬇️ Descarga de 89.7 Mbps
+
+    ⬆️ Subida de 103.0 
+
+    🔁 Ping 108
+
+🔴 En Opera con VPN activada debemos consular nuestra velocidad de subida, bajada y el ping, anotando estos valores. 
+ 
+    ⬇️ Descarga de 2.18 Mbps
+
+    ⬆️ Subida de 16.59 Mbps 
+
+    🔁 Ping 135
+
+🟣 Con Tor y su red activada, debemos consultar nuestra velocidad de subida, bajada y el ping, anotando estos valores.
+
+    ⬇️ Descarga de 13.62 Mbps
+
+    ⬆️ Subida de 7.71 Mbps 
+
+    🔁 Ping 680
