@@ -1,0 +1,33 @@
+1. ¿Por qué un lenguaje de progamacion sólo puede utilizarse en algunos
+sistemas operativos y en otros no?
+
+        Por que el lenguaje de programacion depende del lenguaje ensamblador,que
+        a su vez depende de la arquitectura del procesador y la interpretación
+        que le de el sistema operativo que lo esta ejecutando. Entonces, si
+        la arquictetura cambia, cambia el lenguaje ensamblador y por esto
+        no se podria ejecturar. En el caso de que el cambio se produzca en el
+        SO, estaria cambiando la interpretación o el llamado a esta, creando una
+        incopatibilidad con el lenguaje.
+
+2. ¿Qué tipo de máquina virtual soporta virtualBox?
+
+        VirtualBox soporta la creacion y ejecucion  de varias maquinas virtuales
+        de sistemas operativos x86 como DOS, Windows, OS/2, FreeBSD y OpenBSD.
+        A estos sistemas se les llama "SO invitado". Sin embargo, los sistemas
+        mas comunes son los que tienen un mejor soporte.
+
+3. ¿Qué tipo de máquina virtual soporta virtualBox?
+
+        VirtualBox soporta la creacion y ejecucion  de varias maquinas virtuales
+        de sistemas operativos x86 como DOS, Windows, OS/2, FreeBSD y OpenBSD.
+        A estos sistemas se les llama "SO invitado". Sin embargo, los sistemas
+        mas comunes son los que tienen un mejor soporte.
+
+4. Si tengo más de una maquina virtual instalada, y una se rompe,
+¿esto afecta a las demás? ¿por qué?
+
+        Al romperser una de las maquinas virtuales que se tenga creada, las
+        demas no se veran afectadas gracias al hypervisor que aisla su
+        sistema operativo y recursos. Esto hace a cada maquina independiente
+        de otra, a pesar de que en su creacion se les destino recursos del
+        mismo sistema operativo host.
