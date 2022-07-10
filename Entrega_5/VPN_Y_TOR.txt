@@ -1,0 +1,62 @@
+
+
+Dirección ip con Google Chorme 191.95.159.241
+
+Dirección ip con Opera y VPN desactivada 191.95.159.241
+
+Dirección ip con Opera y VPN activa 77.111.246.40
+
+Dirección ip con TOR 185.220.101.35
+
+Las IP's Públicas no son iguales porque la VPN y el navegador TOR cambian la dirección ip pública.
+Por un lado, la VPN establece un canal directo de conexión, algo así como un túnel, que permite que 
+la información viaje más segura. Además, la información que viaja a través de esta conexión lo hace 
+encriptada.Por otro lado, el TOR realiza una conexión anidada enlanzando varios servidores en el 
+camino hasta llegar al destino. La información tiene varias capas las cuales se van quitendo a medida
+que van pasando por cada servidor.
+
+El video sin utilizar una VPN no se puede reproducir, cosa que si se puede hacer cuando se usa una VPN.
+La razón por la cual no se puede ver este video sin VPN es su ubucación y la restricción que los dueños
+ del contenido ponen al video para que usuarios de otras zonas del mundo no lo puedan ver. La dirección 
+ip me da información acerca de la ubicación física de la maquina que la posee, por lo tanto se pueden hacer
+restricciones de acceso a las ip que no correspondan a un territorio determinado. La VPN al generar dicha 
+conexión directa cambia la dirección ip y por tanto la ubicación de donde procede la solicitud de acceso a
+la información.
+
+Con TOR no se puede localizar la dirección ip. Fundamentalmente, porque cuando pasa por cada servidor cambia 
+la dirección ip propiciando que no se pueda rastrear su posición geográfica.
+
+SpeedTest
+
+Opera sin VPN
+Descarga:42.81 Mbps
+Carga:5.83 Mbps
+PIN:150
+
+Opera con VPN
+Descarga:40.23 Mbps
+Carga: 7.45 Mbps
+PIN: 184
+
+TOR 
+Descarga: /
+Carga: /
+PIN: /
+
+La diferencia entre las velocidades de carga y descarga al ultilizar o no una VPN se fundamentan en que la información
+no va directamente al destino sino que usa una conexión virtual haciendo un paso adicional para llegar al destino lo que 
+la vuelve más lenta a través de la VPN. Además, dicha información viaja encriptada y por ende es más pesada para mover. 
+Con TOR al igual que con la localización de la dirección ip y por eso no permite hacer el test porque no se conoce la
+ubicación de donde se esta pidiendo el test.
+
+El ping es una unidad de medida que sirve para medir la latencia que es el tiempo que tarda en transmitirse un paquete de 
+datos dentro de la red. Es decir, es el tiempo exacto que pasa desde que tu dispositivo hizo una solicitud al servidor y 
+el tiempo que tardas en recibir una respuesta desde el servidor.
+
+El valor del ping depende de la distancia que exite entre el  dispositivo y el servidor al que esta conectado por tanto 
+al conectarse a un servidor que este muy lejos de nuestra ubicación la latencia sera mayor y al conectarnos a un servidor 
+muy próximo a nuestra ubicación la latencia sera baja.
+
+
+
+
