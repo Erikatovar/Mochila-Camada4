@@ -1,0 +1,9 @@
+¿ por que un lenguaje de programacion solo puede utilizarse en solo algunos distemas 
+operativos de programacion solo puede utilizarse en algunos sitemas y en otros no?
+
+por que depende si el sistema tenga un interprete o compilador segun coresponda 
+al sistema que tenga un interprete o compilador segun corresponda al lenguaje en cuestion 
+
+
+¿si tengo una maquina virtual instalada y una se rompe ¿esta afecta a las demas?
+no,por que son independiente una de la otra 
