@@ -1,0 +1,15 @@
+¿Las ip públicas son las mismas? ¿por qué?
+No son las mismas, en chrome y opera si aparece igual, pero en tor es totalmente diferente, porque tor la intenta mantener segura y anónima.
+Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo,
+¿que es lo que sucedió?¿Por qué?
+en ningún momento me dejó ver el vídeo, ni con el VPN activado ni sin activar, dice que está bloqueado para mi país.
+Utilizando Tor ¿pudimos localizar la IP ?
+No, Tor no deja localizar la IP, díce que es anónima y no la muestra en el mapa.
+¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+En el navegador común y en opera sin VPN son los mismos, en los otros cambia la velocidad, por los protocolos del vpn lo hacen ser más lentos
+
+¿Qué significa el valor del ping?
+Es la medida que se ocupa para medir la latencia y es expresado en milisegundos. Esto significa que a medida que el ping sea más bajo, mejor.
+
+El valor del ping, ¿varía entre las diferentes opciones? ¿Por qué?
+No, en mi caso se quedó en milisegundos.
