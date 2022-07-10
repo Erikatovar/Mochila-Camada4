@@ -1,0 +1,42 @@
+//Comandos de la GitBash//
+
+$ ls
+Lista los archivos de la carpeta/directorio en donde se este ubicado.
+
+$ ls -R
+Muestra las carpetas y los archivos contenidos en ellas.
+
+$ cd [Nombre de la carpeta]
+Sirve para cambiar de carpeta en especifico.
+
+$ cd ..
+Sube un nivel de carpeta.
+
+$ pwd
+Muestra la carpeta en la cual se esta trabajando.
+
+$ mkdir [Carpeta]
+Crea una nueva carpeta.
+
+$ touch [Nomobre del archivo]
+Crea un nuevo archivo.
+
+$ rm [Nombre del archivo]
+Elimina un archivo.
+
+$ rmdir [Nombre de la carpeta]
+Elimina una carpeta vacia.
+
+$ rm -r [Nombre de la carpeta]
+Elimina la carpeta con todo su contenido.
+
+$ mv [ruta/documento1] [ruta/documento2]
+Renombra los archivos; el "Documento2" no debe existir o sera sobreescrito.
+
+$ mv [ruta/carpeta1] [ruta/carpeta2]
+Renombra la "carpeta1" pasando a ser "carpeta2" y la "carpeta2" no debe existir. 
+Tambien sirve para mover contenido de la "carpeta1" a la "carpeta2"; donde la "carpeta2" en este caso si debe existir.
+
+$ clear ---- ctrl + l 
+Ambos sirven para limpiar la terminal, en este caso BASH.
+

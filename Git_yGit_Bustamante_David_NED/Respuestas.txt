@@ -1,0 +1,9 @@
+1= Fue inventado por Linus Torvalds, por que su comunidad que usaba el kernel de Linux ya no podia 
+hacer uso del control de revision llamado Bitkeeper.
+
+2= El 4 de junio de 2018, Microsoft compró GitHub.
+Según Microsoft, con esta adquisición ambas empresas permitirán a los desarrolladores
+disponer de nuevas herramientas en cada etapa de creación de un programa, lo que permitirá ofrecer 
+nuevos servicios a los usuarios.
+
+3= No.
