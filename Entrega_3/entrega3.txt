@@ -1,0 +1,18 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
+
+porque se compila segun la arquitectura de el sistema operativo especifico
+
+
+
+¿Qué tipo de máquina virtual soporta virtualBox?. 
+
+
+es de tipo 2 porque funciona sobre el sistema operativo
+
+¿Qué función cumple el hypervisor en la virtualización?
+
+se encarga de administrar los recursos de las maquinas virtuales
+
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+no porque cada maquina tiene su propio medio de almacenamiento y recursos aislados de las demas
