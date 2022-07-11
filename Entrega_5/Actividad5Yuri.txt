@@ -1,0 +1,51 @@
+Actividad Clase 20
+
+¿Las ip públicas son las mismas? ¿por qué?
+R//: No , por ejemplo Tor al realizar varios recorridos entrega la IP del ultimo servidor, del cual hace el salto. Por otro lado, la VPN entrega la IP de su servidor.
+
+Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+
+R//: No es posible ver el video, porque posiblemente se encuentra restringigo para verlo en ciertas áreas.
+
+
+Utilizando Tor ¿pudimos localizar la IP ?  
+R//: No debido a que como éste presenta un servicio de anonimato no es posible localizar la IP.
+
+En Opera sin VPN debemos consultar nuestra velocidad de subida, bajada y el ping, anotar estos valores.
+R//: 
+ Descarga Mbps
+218.22
+
+Subida Mbps
+20.43
+
+Ping ms  11
+
+
+En Opera con VPN activada debemos consular nuestra velocidad de subida, bajada y el ping, anotando estos valores. 
+R//: 
+DOWNLOAD Mbps
+2.87
+UPLOAD Mbps
+18.67
+Ping ms 143
+
+Con Tor y su red activada, debemos consultar nuestra velocidad de subida, bajada y el ping, anotando estos valores.
+R//: 
+ Descarga Mbps
+13.28
+Upload Mbps 
+2.79
+Ping ms 300
+
+¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+
+R//: Si, son diferentes. Esto se debe a que en los diferentes navegadores se hacen recorridos en diferente cantidad de servidores, lo cual genero que en uno u otro se tenga más velocidad.
+
+¿Que significa el valor del ping?
+R//: Este indica el tiempo de respuesta entre el servidor y el host.
+
+El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+R//: Si, porque como se menciona en lineas anteriores, la información viaja en diferente cantidad de servidores; dependiendo si es Opera o Tor. Donde se tienen diferentes tiempos de respuesta.
+
+Saludos
