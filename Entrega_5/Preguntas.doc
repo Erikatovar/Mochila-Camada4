@@ -1,0 +1,26 @@
+Las IP publicas son las mismas? por que ? 
+
+No en tor ls direccion IP enmascaradas y accesibles sólo desde el mismo browser.
+y en Opera la IP es la del servicio VPN 
+
+Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+Video bloqueado en la region. 
+La conexion a internet se realizar utilizando los recursos de un servidor remoto. por lo tanto es identificado desde otro luegar. 
+
+Utilizando Tor ¿pudimos localizar la IP ?  
+Si, la IP se pueden regenerar para crear un enrutamiento diferente. 
+
+En Opera sin VPN debemos consultar nuestra velocidad de subida, bajada y el ping, anotar estos valores.
+
+En Opera con VPN activada debemos consular nuestra velocidad de subida, bajada y el ping, anotando estos valores. 
+
+Con Tor y su red activada, debemos consultar nuestra velocidad de subida, bajada y el ping, anotando estos valores.
+
+¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+Si son diferentes principalmente sucede por encriptar la informacion en el caso de tor y de opera por estar usando un vpn por el cual se hacen los request ubicados en otro pais. 
+
+¿Que significa el valor del ping?
+el tiempo de respuesta desde el momento en el que se realiza la peticion 
+
+El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+Si, es por la ruta que utilizan.
